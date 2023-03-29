@@ -1,2 +1,2 @@
-# dashboard
-material feito para estudo
+## dashboard
+Dashboard feito para estudo utilizando html, css e js
